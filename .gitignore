@@ -1,0 +1,14 @@
+# Local/editor caches only
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+*.log
+*.tmp
+.env
+.env.*
+node_modules/
+dist/
+*.zip
