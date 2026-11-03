@@ -62,7 +62,7 @@ There is no CMS, no back end, no build pipeline and no database. Do **not** intr
 
 ## 7. Safe workflow for autonomous agents
 
-1. For a fresh clone, first create the repo and initial commit from the ZIP. For an existing repo, inspect `git status`, last commit, `README.md`, `AGENTS.md`, `docs/*` first; don't assume branch state.
+1. The repository already exists and is published. For a fresh clone, inspect `git status`, the last commit, `README.md`, `AGENTS.md` and `docs/*` first; don't assume branch state.
 2. State the intended user-visible outcome; identify exact files to change. For a trivial typo, no roadmap needed.
 3. Create small, meaningful changes. Keep all original images until replacements have been visually validated and authorized.
 4. Run checks: HTML loads; missing `src`/`href` references; JS parses; no duplicated translation keys; EN/RU toggle; desktop and narrow-mobile widths; console warnings; text contrast; keyboard focus.
