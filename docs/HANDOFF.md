@@ -6,17 +6,18 @@
 - The website is **not affiliated with any named programme or application**. Do not add application-related banners, slogans, branding or eligibility text.
 - Design concept: a personal editorial-style website: ambitious student, real projects and olympiad results, with travel, people and sports receiving equal attention.
 - The site has no backend or framework. Everything needed is in the archive.
-- **Latest commit SHA:** 19b2d4bdb4be772988d60470eeadb6fc29295709
+- **Last verified deployed commit:** `fef5acdb43422977c4eac35537b27e9a24ebeb41`
+- **Verification:** homepage, CSS, JavaScript and all five photos return HTTP 200 over HTTPS; EN/RU toggle, language persistence, navigation anchors and contact link work; checked at 320, 375, 390, 768, 1280 and 1440 px with no horizontal overflow.
 
-## Exact first-deploy task
+## Deployment checklist (completed 2026-11-03)
 
-1. Unpack ZIP into an empty working folder. Read `README.md`, `AGENTS.md`, `docs/CONTENT.md`, `docs/DESIGN.md`, `docs/DEPLOY.md`.
-2. Run a local HTTP preview; inspect on iPhone-sized viewport, at 320 and 390 pixels, and a desktop viewport. Confirm EN/RU toggle and relative image paths.
-3. Confirm permission to publicly publish any photos containing other people. Five compressed WebP assets are included; original images and original CV are intentionally **not** included.
-4. On the authorized GitHub account, **create a separate, public repository** `rommm13/milana-shelekhova`, with `main` as default. Do not edit `rommm13/cv-milana` or any other existing repository.
-5. Commit the archive content at repository root, keeping `index.html` and `.nojekyll` at root. Configure GitHub Pages: `Deploy from a branch`, `main`, `/(root)`.
-6. Verify actual URL, CSS, JS, five images, desktop/mobile and EN/RU. Report real repo and Pages links and any outstanding permission issues.
-7. Later update content and media in the same repo using small traceable commits; avoid gratuitous rewrites or paid CI.
+1. Unpacked the approved ZIP into an empty working folder and read `README.md`, `AGENTS.md`, `docs/CONTENT.md`, `docs/DESIGN.md`, `docs/DEPLOY.md`.
+2. Ran a local HTTP preview and inspected mobile and desktop widths; confirmed EN/RU toggle and relative image paths.
+3. Confirmed the package contains five compressed WebP assets with no EXIF/GPS; original images and original CV are intentionally **not** included.
+4. Created the separate public repository `rommm13/shelekhova-milana` with `main` as default. `rommm13/cv-milana` and all other repositories were left untouched.
+5. Committed the site at repository root, keeping `index.html` and `.nojekyll` at root. Configured GitHub Pages: `Deploy from a branch`, `main`, `/(root)`, HTTPS enforced, no custom domain.
+6. Verified the live URL, CSS, JS, five images, desktop/mobile and EN/RU. Fixed Russian headings that overflowed at 320 px in commit `fef5acd`.
+7. Future content and media changes go into the same repository using small traceable commits; no custom CI or paid services.
 
 ## Key rationale
 
