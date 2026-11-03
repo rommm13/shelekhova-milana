@@ -6,8 +6,8 @@
 - The website is **not affiliated with any named programme or application**. Do not add application-related banners, slogans, branding or eligibility text.
 - Design concept: a personal editorial-style website: ambitious student, real projects and olympiad results, with travel, people and sports receiving equal attention.
 - The site has no backend or framework. Everything needed is in the archive.
-- **Last verified site-content commit:** `ec39112b9dabbdf978512a3bd3b6e500269d05fa`
-- **Verification:** homepage, CSS, JavaScript and all five photos return HTTP 200 over HTTPS; EN/RU toggle, language persistence, navigation anchors and contact link work; checked at 320, 375, 390, 768, 1280 and 1440 px with no horizontal overflow.
+- **Last verified site-content commit:** `348bfc892f7660163edc06ea290b41ee5cf19a18`
+- **Verification:** homepage, CSS, JavaScript, all five photos and the JPEG fallback return HTTP 200 over HTTPS; EN/RU toggle, language persistence, desktop navigation, mobile menu, Telegram/phone/email links and contact block work; checked at 320, 375, 390, 768, 1280 and 1440 px with no horizontal overflow; the page resets to the top on reload; the full taekwondo photo shows all medals.
 
 ## Deployment checklist (completed 2026-11-03)
 
