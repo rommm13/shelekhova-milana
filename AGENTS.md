@@ -54,8 +54,8 @@ There is no CMS, no back end, no build pipeline and no database. Do **not** intr
 
 ## 6. Deployment architecture
 
-- **For initial publication** create a new public repository at the proposed path, then configure GitHub Pages **Deploy from a branch**: `main` → `/(root)`; `.nojekyll` is in root.
-- `index.html` is the entry point; other files are referenced by **relative URLs**, essential for a repository page hosted below `/milana-shelekhova/`.
+- **Publication is already configured**: public repository `rommm13/shelekhova-milana`, GitHub Pages **Deploy from a branch**: `main` → `/(root)`; `.nojekyll` is in root.
+- `index.html` is the entry point; other files are referenced by **relative URLs**, essential for a repository page hosted below `/shelekhova-milana/`.
 - GitHub's internally managed Pages job may appear in Actions; do not add custom `.github/workflows/*` build/test pipelines unless necessary. Hosted Actions costs/permissions have caused issues in other user projects; this portfolio needs zero build steps.
 - If publication is missing, first inspect `Settings → Pages`, Pages API and recent deployment state. Do not 'fix' it by migrating to Vercel or changing other repositories.
 - Deployments are triggered by pushing to the Pages source; cache propagation can be delayed. Verify HTTP response and loaded image/assets, not just green Git status.
@@ -86,7 +86,7 @@ git commit -m "content: update portfolio"
 git push origin main
 
 # With authenticated GitHub CLI, optional inspection:
-gh api repos/rommm13/milana-shelekhova/pages
+gh api repos/rommm13/shelekhova-milana/pages
 ```
 
 ## 9. Definition of done

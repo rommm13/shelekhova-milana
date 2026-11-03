@@ -1892,6 +1892,24 @@ h1,h2,h3,p {
 
 }
 
+/* Russian words are longer: keep the editorial scale without overflow at 320px. */
+
+@media (max-width:380px) {
+
+  html[lang="ru"] .hero h1 {
+
+    font-size: clamp(42px,12vw,46px);
+
+  }
+
+  html[lang="ru"] .journey-header .display {
+
+    font-size: clamp(42px,11.7vw,44px);
+
+  }
+
+}
+
 @media (prefers-reduced-motion:reduce) {
 
   html {
