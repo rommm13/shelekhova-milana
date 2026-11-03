@@ -1134,6 +1134,12 @@ h1,h2,h3,p {
 
 }
 
+.contact .section-marker.light {
+
+  color: #fff6ea;
+
+}
+
 .contact-inner {
 
   padding-bottom: 8px;
