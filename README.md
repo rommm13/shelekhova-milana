@@ -48,7 +48,7 @@ The key message is **curious, disciplined and internationally minded, without ma
 │   ├── CONTENT.md      # content accuracy, language policy and image rules
 │   ├── DESIGN.md       # look, accessibility and mobile rules
 │   ├── DEPLOY.md       # publish, verify, debug and rollback
-│   └── HANDOFF.md      # current packaging status and first-deployment steps
+│   └── HANDOFF.md      # live deployment status and maintenance handoff
 └── AGENTS.md           # read this first if you are a coding agent
 ```
 
