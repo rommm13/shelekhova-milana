@@ -80,7 +80,7 @@ Do not test only using a `file://` path: use a local HTTP server to mirror hosti
 
 ## Public privacy and accuracy rules
 
-This repo is **public**: its entire history and image assets may be downloaded, copied and indexed. The owner-approved contact block publishes Telegram `@yoomilkaa`, the telephone number, email and general region (`Moscow region, Russia`). **Do not add** a precise home address, additional phone numbers or messenger handles, IDs, passport information, date of birth, grades or certificates containing personal data, private photos, login credentials, tokens or secrets. Do not add third-party faces or event photos without confirmation they may be published. Do not invent prizes, titles, language test results, university positions or travel destinations. Milana's approval is required before changing major biographical facts or publishing new portraits.
+This repo is **public**: its entire history and image assets may be downloaded, copied and indexed. The owner-approved contact block publishes a Telegram icon button linking to `https://t.me/yoomilkaa` (the handle is not shown as text), the telephone number, email and general region (`Moscow region, Russia`). **Do not add** a precise home address, additional phone numbers or messenger handles, IDs, passport information, date of birth, grades or certificates containing personal data, private photos, login credentials, tokens or secrets. Do not add third-party faces or event photos without confirmation they may be published. Do not invent prizes, titles, language test results, university positions or travel destinations. Milana's approval is required before changing major biographical facts or publishing new portraits.
 
 ## Source of factual claims
 

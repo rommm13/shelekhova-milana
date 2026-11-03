@@ -27,6 +27,8 @@ git commit -m "content: refine portfolio story"
 git push origin main
 ```
 
+If `styles.css` or `script.js` changed, bump the `?v=YYYYMMDD-N` token on both links in `index.html` before committing. Otherwise GitHub Pages may serve the new HTML with cached old CSS/JS for up to 10 minutes.
+
 After push:
 
 - Check `https://rommm13.github.io/shelekhova-milana/` returns HTML and correct `title`.

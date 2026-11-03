@@ -16,7 +16,7 @@ This ordering is deliberate: academic credibility comes first; personality and c
 ## Facts (from supplied CV, November 2026)
 
 - Full name: Milana Shelekhova / Милана Шелехова.
-- Financial University under the Government of the Russian Federation, Bachelor's in Economics, start 2026, expected 2030. Programme: financial instruments and digital analysis technologies; dual economist/programmer qualification is described in CV.
+- Financial University under the Government of the Russian Federation, Bachelor's in Economics, start 2026, expected 2030. Programme: financial instruments and digital analysis technologies; dual economist/programmer qualification is described in CV. The visible intro uses the owner-approved wording “учится на финансиста” / “I study finance and digital analysis”; keep it unless Milana changes it.
 - Twice a national-stage Spanish Olympiad prize-winner, 2025 and 2026; Moscow Region regional round overall first 2026.
 - Graduated from LINGVA English school with honours (2018–2026).
 - Changellenge Cup Moscow 2026 participant (as of initial publication). Never call her a winner without proof.
@@ -41,4 +41,4 @@ These images came from the user's attachments for this site, then were optimized
 
 ## Contact
 
-The contact block intentionally publishes the owner-approved details: Telegram `@yoomilkaa` (`https://t.me/yoomilkaa`), telephone `+7 (929) 595-30-71`, email `milana.shelekhova.r@gmail.com`, and the general region `Moscow region, Russia`. Do not add a precise home address, another messenger handle, passport, birthdate or links to private family resources without explicit owner approval. Don't expose a downloadable original CV unless the owner expressly requests a scrubbed public version.
+The contact block intentionally publishes the owner-approved details: a Telegram icon button linking to `https://t.me/yoomilkaa` (the handle is not shown as text), telephone `+7 (929) 595-30-71`, email `milana.shelekhova.r@gmail.com`, and the general region `Moscow region, Russia`. Do not add a precise home address, another messenger handle, passport, birthdate or links to private family resources without explicit owner approval. Don't expose a downloadable original CV unless the owner expressly requests a scrubbed public version.
