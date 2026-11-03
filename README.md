@@ -4,7 +4,7 @@
 
 **Website:** `https://rommm13.github.io/shelekhova-milana/` (published)  
 **GitHub repository:** `https://github.com/rommm13/shelekhova-milana/`  
-**Owner/editor:** Milana; repository maintenance is performed by an authorized maintainer or coding agent.  
+**Owner/editor:** Milana; repository maintenance is performed by an authorized maintainer or coding agent.
 **Default language:** English (there is a RU switch).
 
 ## Why this exists

@@ -2,7 +2,7 @@
 
 **Repository:** `https://github.com/rommm13/shelekhova-milana`  
 **Public URL:** `https://rommm13.github.io/shelekhova-milana/`  
-**Publishing source:** branch `main`, folder `/ (root)`  
+**Publishing source:** branch `main`, folder `/ (root)`
 **DNS/custom domain:** none. **Build:** none.
 
 ## Initial setup / reconfiguration
