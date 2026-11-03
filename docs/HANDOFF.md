@@ -6,7 +6,7 @@
 - The website is **not affiliated with any named programme or application**. Do not add application-related banners, slogans, branding or eligibility text.
 - Design concept: a personal editorial-style website: ambitious student, real projects and olympiad results, with travel, people and sports receiving equal attention.
 - The site has no backend or framework. Everything needed is in the archive.
-- **Latest commit SHA:** (to be updated after commit/push).
+- **Latest commit SHA:** da799e5c3e0e6ece1bf86897e06f00a21d5685f8
 
 ## Exact first-deploy task
 
