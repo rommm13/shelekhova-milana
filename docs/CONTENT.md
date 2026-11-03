@@ -8,7 +8,7 @@
 2. **About**: first-year economics, quantitative and digital interests, human voice.
 3. **My journey**: education, Changellenge case competition, volunteering, Spanish Olympiad.
 4. **Beyond studies**: authentic travel (Istanbul), student community and taekwondo discipline.
-5. **Languages**: Russian native, English C1, Spanish C1, French A1, DELE B1 certified.
+5. **Languages**: Russian native, English C1, Spanish C1, French A2, DELE B1 certified.
 6. **Contact**: one appropriate public email.
 
 This ordering is deliberate: academic credibility comes first; personality and cultural openness follow. The site should add information a one-page resume cannot convey, without duplicating it line for line.
@@ -22,7 +22,7 @@ This ordering is deliberate: academic credibility comes first; personality and c
 - Changellenge Cup Moscow 2026 participant (as of initial publication). Never call her a winner without proof.
 - Conference volunteer, Financial University, Oct 2026, registration/guest support, certificate of appreciation.
 - Past sport: regional taekwondo prizes, table tennis, volleyball, figure skating.
-- Languages from CV: Russian native, English C1, Spanish C1, French A1. DELE B1 certificate is substantiated by CV; **C1 is a level, not a certified qualification**.
+- Languages from CV: Russian native, English C1, Spanish C1, French A2. DELE B1 certificate is substantiated by CV; **C1 is a level, not a certified qualification**.
 - Travel in Istanbul: evidenced by supplied Galata Tower image; avoid inventing travel destinations.
 
 For any newly added award, credential or destination, get clear verification from Milana. Historical dates may be updated, but not guessed.
@@ -37,8 +37,8 @@ English source text is embedded in `index.html`. Russian keys are in `script.js`
 
 ## Images
 
-These images came from the user's attachments for this site, then were optimized and stripped of metadata. Current assets are `portrait.webp`, `olympiad.webp`, `istanbul.webp`, `community.webp`, `sport.webp`. They depict real moments and should remain truthful. Never synthesize a new award, uniform, event or country. For external publication, re-confirm group-image sharing permissions as necessary. If a picture with third-party participants cannot be cleared for public use, replace it with an approved individual or environment photo instead.
+These images came from the user's attachments for this site, then were optimized and stripped of metadata. Current assets are `portrait.webp` (with a `portrait.jpg` fallback), `olympiad.webp`, `istanbul.webp`, `community.webp`, `sport.webp`. They depict real moments and should remain truthful. Never synthesize a new award, uniform, event or country. For external publication, re-confirm group-image sharing permissions as necessary. If a picture with third-party participants cannot be cleared for public use, replace it with an approved individual or environment photo instead.
 
 ## Contact
 
-The public contact email is `milana.shelekhova.r@gmail.com`. No telephone, address, Telegram handle, WhatsApp, passport, birthdate or links to private family resources. Don't expose a downloadable original CV unless the owner expressly requests a scrubbed public version.
+The contact block intentionally publishes the owner-approved details: Telegram `@yoomilkaa` (`https://t.me/yoomilkaa`), telephone `+7 (929) 595-30-71`, email `milana.shelekhova.r@gmail.com`, and the general region `Moscow region, Russia`. Do not add a precise home address, another messenger handle, passport, birthdate or links to private family resources without explicit owner approval. Don't expose a downloadable original CV unless the owner expressly requests a scrubbed public version.

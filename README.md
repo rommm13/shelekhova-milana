@@ -38,6 +38,7 @@ The key message is **curious, disciplined and internationally minded, without ma
 ├── .nojekyll
 ├── assets/
 │   ├── portrait.webp   # opening portrait
+│   ├── portrait.jpg    # JPEG fallback for the opening portrait
 │   ├── olympiad.webp   # olympiad / group achievement
 │   ├── istanbul.webp   # travel in Istanbul
 │   ├── community.webp  # teamwork and student community
@@ -79,7 +80,7 @@ Do not test only using a `file://` path: use a local HTTP server to mirror hosti
 
 ## Public privacy and accuracy rules
 
-This repo is **public**: its entire history and image assets may be downloaded, copied and indexed. **Do not commit** home addresses, phone numbers, IDs, passport information, date of birth, grades or certificates containing personal data, private photos, login credentials, tokens or secrets. The site currently offers only a public contact email. Do not add third-party faces or event photos without confirmation they may be published. Do not invent prizes, titles, language test results, university positions or travel destinations. Milana's approval is required before changing major biographical facts or publishing new portraits.
+This repo is **public**: its entire history and image assets may be downloaded, copied and indexed. The owner-approved contact block publishes Telegram `@yoomilkaa`, the telephone number, email and general region (`Moscow region, Russia`). **Do not add** a precise home address, additional phone numbers or messenger handles, IDs, passport information, date of birth, grades or certificates containing personal data, private photos, login credentials, tokens or secrets. Do not add third-party faces or event photos without confirmation they may be published. Do not invent prizes, titles, language test results, university positions or travel destinations. Milana's approval is required before changing major biographical facts or publishing new portraits.
 
 ## Source of factual claims
 

@@ -45,9 +45,9 @@ There is no CMS, no back end, no build pipeline and no database. Do **not** intr
 
 ## 5. Privacy, copyright and personal safety
 
-- Public repository, public URL, searchable by default. NEVER commit personal phone, residence, date of birth, passport, academic student ID, hidden EXIF GPS, private documents or app credentials.
+- Public repository, public URL, searchable by default. The owner-approved contact block intentionally publishes Telegram `@yoomilkaa` (`https://t.me/yoomilkaa`), `+7 (929) 595-30-71`, `milana.shelekhova.r@gmail.com` and the general region `Moscow region, Russia`. Never add a precise home address, another phone number or messenger handle, date of birth, passport, academic student ID, hidden EXIF GPS, private documents or app credentials.
 - Any new photo must be explicitly approved for a public site, especially group photos with other young people. Strip EXIF and GPS; use WebP unless strong reason otherwise.
-- Public contact uses `mailto:milana.shelekhova.r@gmail.com` as in provided CV; do not add unsolicited social accounts.
+- Public contact uses the approved `https://t.me/yoomilkaa`, `tel:+79295953071` and `mailto:milana.shelekhova.r@gmail.com` links; do not add unsolicited social accounts.
 - Do not expose the original CV file in the public repo. Website is not a document archive.
 - No trackers, analytics SDKs, remote photo hosts, marketing scripts, maps or embedded widgets without user's explicit request and privacy review.
 - No unrequested license grant for photographs. If a new contributor adds stock/media, record usage rights first.
