@@ -44,6 +44,20 @@
   try { stored = localStorage.getItem('milana-language'); } catch (_) {}
   apply(stored === 'ru' ? 'ru' : 'en');
   toggle.addEventListener('click', () => apply(document.documentElement.lang === 'ru' ? 'en' : 'ru'));
+
+  const menuToggle = document.getElementById('menuToggle');
+  const siteNav = document.getElementById('siteNav');
+  if (menuToggle && siteNav) {
+    const setMenu = open => {
+      siteNav.classList.toggle('is-open', open);
+      menuToggle.setAttribute('aria-expanded', String(open));
+    };
+    menuToggle.addEventListener('click', () => setMenu(!siteNav.classList.contains('is-open')));
+    siteNav.querySelectorAll('a').forEach(link => link.addEventListener('click', () => setMenu(false)));
+    document.addEventListener('keydown', event => { if (event.key === 'Escape') setMenu(false); });
+    window.addEventListener('resize', () => { if (window.innerWidth > 760) setMenu(false); });
+  }
+
   document.getElementById('year').textContent = new Date().getFullYear();
   const progress = document.getElementById('progress');
   let requested = false;
