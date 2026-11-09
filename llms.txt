@@ -1,0 +1,22 @@
+# Milana Shelekhova — personal website
+
+> Milana Shelekhova — first-year Economics student at the Financial University in Moscow, twice a prize winner of the All-Russian Spanish Olympiad final (2025, 2026).
+
+Personal website: https://rommm13.github.io/shelekhova-milana/
+
+## Profile
+- Economics student (Bachelor's, Financial University under the Government of the Russian Federation, Moscow; started 2026): financial instruments, digital analysis, programming.
+- Languages: Russian (native), English (C1), Spanish (C1; DELE B1 certified), French (A2).
+- Twice a prize winner at the national final of the All-Russian Spanish Olympiad (2025, 2026); first place in the Moscow Region round (2026).
+- English language school graduate with honours.
+- Changellenge Cup Moscow 2026 participant; volunteer at the Financial University conference on financial markets (2026).
+
+## Facts
+- Full name: Milana Shelekhova
+- Studies: Economics, Financial University, Moscow
+- Telegram: https://t.me/yoomilkaa
+- Email: milana.shelekhova.r@gmail.com
+
+## Details
+- [Facts about Milana (English)](https://rommm13.github.io/shelekhova-milana/about.md)
+- [Факты о Милане (русский)](https://rommm13.github.io/shelekhova-milana/about-ru.md)
